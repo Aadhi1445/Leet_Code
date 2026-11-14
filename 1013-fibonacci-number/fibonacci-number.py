@@ -9,8 +9,7 @@ class Solution:
         ct=0
         while ct<n:
             ct+=1
-            l.append(a)
-            
+            l.append(a)  
             c=a+b
             a=b
             b=c
